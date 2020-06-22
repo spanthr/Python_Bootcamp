@@ -1,0 +1,16 @@
+Jim - Salesman
+Tim - Salesman
+Pim - Manager
+Hatim - Developr
+YoYo - CEO
+Honey - Rapper
+Singh - Teacher
+
+
+New Sales
+Neil - Intern
+Nitin - Intern Summer
+
+New Sales Employees
+Neil - Intern
+Nitin - Intern Summer
